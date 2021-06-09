@@ -1,5 +1,5 @@
 
-# Itens Database with Tkinter
+# Items Database with Tkinter
 
 Esse projeto, desenvolvido em Python, tinha como objetivo registrar itens de um supermercado em um banco de dados.
 
